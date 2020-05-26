@@ -1,0 +1,23 @@
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\bin\Debug\CityGym.exe.config
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\bin\Debug\CityGym.exe
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\bin\Debug\CityGym.pdb
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.csprojResolveAssemblyReference.cache
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.Form1.resources
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.members.resources
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.payment.resources
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.Properties.Resources.resources
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.csproj.GenerateResource.Cache
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.exe
+D:\XAm\4th semester\Database\c#\CityGym\CityGym\obj\Debug\CityGym.pdb
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\bin\Debug\CityGym.exe.config
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\bin\Debug\CityGym.exe
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\bin\Debug\CityGym.pdb
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.csprojAssemblyReference.cache
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.Form1.resources
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.members.resources
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.payment.resources
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.Properties.Resources.resources
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.csproj.GenerateResource.cache
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.csproj.CoreCompileInputs.cache
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.exe
+D:\XAm\4th semester\Main Repo\trunk\CityGym\CityGym\obj\Debug\CityGym.pdb
